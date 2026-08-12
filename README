@@ -1,16 +1,11 @@
-<!-- vim: syntax=Markdown -->
-# Courtois-NeuroMod: [xxxx subdataset, fmriprep derivatives](https://github.com/courtois-neuromod/xxxxx.fmriprep) 
+# Cneuromod petit-prince stimuli dataset
 
-The [Courtois project on Neural Modelling (Courtois NeuroMod)](https://www.cneuromod.ca/) aims at training artificial neural networks using extensive experimental data on individual human brain activity and behaviour.
+The CNeuroMod data and their derivatives are shared under a [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/legalcode) that is under the ownership of the CNeuroMod team and the participants.
 
-Participants performed task xxx while functional data being acquired in the MRI scanner . A extensive description can be found [here](https://docs.cneuromod.ca/en/latest/DATASETS.html#xxxx).
+This stimulus dataset contains copyrighted material and thus, those materials are not covered by the license listed above. 
+These audio stimuli (.wav) were obtained from:
+Jixing Li, John Hale, and Christophe Pallier (2022). Le Petit Prince: A multilingual fMRI corpus using ecological stimuli. OpenNeuro. [Dataset] [doi: doi:10.18112/openneuro.ds003643.v2.0.0](doi: doi:10.18112/openneuro.ds003643.v2.0.0)  
 
-This subdataset is organized following the [brain imaging data structure (BIDS)](https://bids.neuroimaging.io/) (including extensions in development) and contains:
-- [x] [preprocessed neuroimaging data](https://docs.cneuromod.ca/en/latest/DERIVATIVES.html#fmriprep)
-- [ ] behavioral variables in event files
+These materials are shared here only for the purpose of scientific research, and  this use case falls under Canada’s Fair Dealing policy on use of copyrighted materials. However,  the proper use of copyrighted materials may vary depending on countries and use cases. Please check each dataset carefully prior to use and acquire a legal copy if necessary.
 
-*(unchecked are collected data which have not yet been integrated in the dataset)*
 
-Courtois NeuroMod data are [freely shared with the scientific community](https://docs.cneuromod.ca/en/latest/ACCESS.html) to advance research at the interface of neuroscience and artificial intelligence. Access to to the data is based on a registered access model, see the Courtois NeuroMod website for more information. Redistribution of data outside of the Courtois NeuroMod data bank is prohibited.
-
-## [Contributors](https://github.com/courtois-neuromod/xxxxx#contributors-)
